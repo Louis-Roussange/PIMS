@@ -12,7 +12,7 @@ To use the envirionment you need to install:
 To download the project:
 
 1. Open a terminal (on widows use git bash)
-2. Clone the project with the command: `git clone git@github.com:fauchonj/PIMS.git`
+2. Clone the project with the command: `git clone https://github.com/fauchonj/PIMS.git`
 
 # Install the environment
 
