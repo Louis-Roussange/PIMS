@@ -1,0 +1,9 @@
+COMPARAISON ARBRE DE REFERENCE vs ARBRE RLMC
+==================================================
+correlation_cophenetique: 0
+p_value: 1
+difference_profondeur_moyenne: 21.57894736842105
+taux_conservation_parent: 0.0
+feuilles_communes: 152
+feuilles_ref: 158
+feuilles_rlmc: 152
