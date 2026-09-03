@@ -1,3 +1,5 @@
+# PDF of our work
+https://github.com/Louis-Roussange/PIMS/blob/main/Projet_PIMS_2026.pdf 
 # Requirements
 
 To use the envirionment you need to install:
