@@ -1,5 +1,7 @@
 # PDF of our work
+
 https://github.com/Louis-Roussange/PIMS/blob/main/Projet_PIMS_2026.pdf 
+
 (PIMS = Projet d'Interaction entre les Mathématiques et la SVT)
 
 # Requirements
@@ -47,17 +49,23 @@ Make sure to follow the instructions described at the beginning of the file **Ma
 # optional
 
 run other directorys like :
+
 **TP_1_PIMS.ipynb**               original directory from fauchonj
+
 **TP_1_PIMS_all_proteins.ipynb**  same directory with answers
 
 **TP_Pipeline gaspard.ipynb**     directory made by Gaspard to try finding Globins among Proteins.
+
 **main_pims_1_gaspard.ipynb**     directory made by Gaspard from TP1
 
 Phylogenetic Trees : 
+
 **arbre_phylo_rlmc.txt**          tree obtained after TDA + RLMC process 
 
 Matrix obtained :
+
 **matrice_wasserstein.txt**            Matrix obtaines after TDA + Wasserstein distances on all dataset.
+
 **matrice_distances_embeddings.csv**   Matrix obtained by using an Ai embedding system instead of TDA
 
 
